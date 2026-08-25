@@ -342,39 +342,7 @@ marketing-campaign-performance-analysis/
 
 ---
 
-# 🚀 How to Run the Project
 
-### 1. Clone the repository
-
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-```
-
-### 2. Navigate to the project folder
-
-```bash
-cd marketing-campaign-performance-analysis
-```
-
-### 3. Install the required libraries
-
-```bash
-pip install pandas numpy matplotlib seaborn scipy scikit-learn jupyter
-```
-
-### 4. Launch Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-### 5. Open
-
-```text
-Marketing Campaign Performance Analysis.ipynb
-```
-
-Run the notebook cells sequentially to reproduce the analysis.
 
 ---
 
