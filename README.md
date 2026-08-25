@@ -153,13 +153,6 @@ Key areas examined include:
 * Conversion rates
 * Relationships between campaign variables
 
-### 📸 Visualization
-
-> **Add your graph image here**
-
-```markdown
-![Clicks and Conversions Distribution](images/clicks-conversions.png)
-```
 
 ---
 
@@ -175,11 +168,8 @@ The campaign performance of Facebook Ads and AdWords was compared using key metr
 
 ### 📸 Campaign Comparison
 
-> **Add your comparison graph here**
+<img width="925" height="726" alt="image" src="https://github.com/user-attachments/assets/263f4303-8df7-4269-936c-01fa754ba88a" />
 
-```markdown
-![Campaign Performance Comparison](images/campaign-comparison.png)
-```
 
 ---
 
@@ -193,13 +183,6 @@ Particular attention was given to the relationship between:
 * Advertising cost and conversions
 * Other relevant campaign performance metrics
 
-### 📸 Correlation Visualization
-
-> **Add your correlation heatmap here**
-
-```markdown
-![Correlation Analysis](images/correlation.png)
-```
 
 ---
 
@@ -228,13 +211,8 @@ The analysis uses a significance level of:
 * **p-value < 0.05** → Reject H₀
 * **p-value ≥ 0.05** → Fail to reject H₀
 
-### 📸 Statistical Result
+<img width="916" height="357" alt="image" src="https://github.com/user-attachments/assets/ad757c5c-1d9b-45b5-8701-5f69cc68c77a" />
 
-> **Add your hypothesis-testing visualization/result here**
-
-```markdown
-![Hypothesis Testing](images/hypothesis-testing.png)
-```
 
 ---
 
@@ -246,11 +224,7 @@ The objective was to understand whether click volume can help explain or predict
 
 ### 📸 Regression Visualization
 
-> **Add your regression plot here**
-
-```markdown
-![Regression Analysis](images/regression.png)
-```
+<img width="642" height="442" alt="image" src="https://github.com/user-attachments/assets/a7164aa3-da47-49fb-9648-8b370bece7c9" />
 
 ---
 
@@ -261,12 +235,11 @@ Campaign performance was also examined across different periods to identify pote
 This analysis helps identify periods in which campaign performance may be relatively stronger or weaker.
 
 ### 📸 Time-Based Analysis
+<img width="607" height="382" alt="image" src="https://github.com/user-attachments/assets/b06755b3-9cf9-49f6-ab38-9b4291998319" />
+<img width="617" height="397" alt="image" src="https://github.com/user-attachments/assets/3eb88344-6c1d-4ee1-b876-7497e82b4f0d" />
+<img width="606" height="387" alt="image" src="https://github.com/user-attachments/assets/a2ec8a72-cda1-47cc-98f6-efec3cbe1976" />
 
-> **Add your time-series graph here**
 
-```markdown
-![Time-Based Campaign Analysis](images/time-analysis.png)
-```
 
 ---
 
@@ -335,29 +308,16 @@ The project demonstrates how statistical analysis and data visualization can be 
 
 # 📸 Project Visualizations
 
-You can showcase your strongest notebook outputs here.
+<img width="935" height="731" alt="image" src="https://github.com/user-attachments/assets/49a3f85c-30a1-41e8-a0c7-99753c790b15" />
+<img width="927" height="407" alt="image" src="https://github.com/user-attachments/assets/4cef5d92-e0a5-4226-8f1c-7c7b413f8486" />
+<img width="922" height="402" alt="image" src="https://github.com/user-attachments/assets/1e99fcb5-86c5-464e-a9fa-16c5e72f709f" />
+<img width="631" height="442" alt="image" src="https://github.com/user-attachments/assets/e38fd165-ba9a-4ce4-a165-1ff740cffd89" />
+<img width="617" height="382" alt="image" src="https://github.com/user-attachments/assets/43d0bf4f-cc85-4cf8-838a-d835091260e0" />
+<img width="621" height="397" alt="image" src="https://github.com/user-attachments/assets/f82e4ed1-e7f6-4847-aa6f-59ddc4f70715" />
+<img width="612" height="390" alt="image" src="https://github.com/user-attachments/assets/fa54bacc-deb3-4684-8f98-40b6dfbbd17c" />
 
-### Campaign Performance
 
-![Campaign Performance](images/campaign-comparison.png)
 
-### Clicks & Conversions Distribution
-
-![Clicks and Conversions](images/clicks-conversions.png)
-
-### Correlation Analysis
-
-![Correlation Heatmap](images/correlation.png)
-
-### Regression Analysis
-
-![Regression Analysis](images/regression.png)
-
-### Time-Based Performance
-
-![Time Analysis](images/time-analysis.png)
-
-> 💡 **Tip:** Keep approximately **4–6 of your best visualizations** here rather than adding every graph from the notebook.
 
 ---
 
