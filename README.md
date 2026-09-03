@@ -1,4 +1,4 @@
-# 📊 Marketing Campaign Performance Analysis: Facebook Ads vs. AdWords
+# Marketing Campaign Performance Analysis: Facebook Ads vs. AdWords
 
 <p align="center">
   <b>A/B Testing, Statistical Analysis & Conversion Insights</b>
