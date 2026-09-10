@@ -241,7 +241,6 @@ This analysis helps identify periods in which campaign performance may be relati
 <img width="606" height="387" alt="image" src="https://github.com/user-attachments/assets/a2ec8a72-cda1-47cc-98f6-efec3cbe1976" />
 
 
-
 ---
 
 # 💡 Key Findings
