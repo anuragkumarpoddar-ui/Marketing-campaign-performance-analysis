@@ -296,7 +296,6 @@ Additional A/B tests can be conducted on audience segments, creative formats, me
 
 ---
 
-
 # 🏁 Conclusion
 
 This project evaluated the performance of **Facebook Ads and AdWords** using exploratory data analysis, correlation analysis, hypothesis testing, regression analysis, and time-based analysis.
