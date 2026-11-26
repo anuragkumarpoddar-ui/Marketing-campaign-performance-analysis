@@ -26,7 +26,6 @@
 
 ---
 
-
 ## 📌 Project Overview
 
 This project analyzes the performance of two digital advertising platforms — **Facebook Ads** and **AdWords** — using daily campaign data from 2019.
