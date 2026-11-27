@@ -153,7 +153,6 @@ Key areas examined include:
 * Conversion rates
 * Relationships between campaign variables
 
-
 ---
 
 ## 2️⃣ Facebook Ads vs. AdWords
